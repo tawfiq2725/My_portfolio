@@ -18,7 +18,7 @@ section{
     
 }
 .home{
-    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)) ,url(./imgs/home.jpg);
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)) ,url(./home.jpg);
     width: 100vw;
     height: 100vh;
     background-position: center;
@@ -107,7 +107,7 @@ section{
 }
 /* skills page */
 .skills{
-    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)) ,url(./imgs/skills.jpg);
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)) ,url(./skills.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -223,7 +223,7 @@ section{
 }
 /* about me page */
 .about{
-    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)) ,url(./imgs/aboutme.jpg);
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)) ,url(./aboutme.jpg);
     background-position: center;
     background-size: cover;
     color: #fff;
@@ -258,7 +258,7 @@ section{
 }
 /* Service page */
 .services{
-    background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)) ,url(./imgs/services.jpg);
+    background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)) ,url(./services.jpg);
     background-position: center;
     background-size: cover;
     color: #fff;
@@ -298,7 +298,7 @@ section{
 }
 /* Contact page */
 .contact{
-    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)) ,url(./imgs/contact.jpg);
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)) ,url(./contact.jpg);
     background-position: center;
     background-size: cover;
     color: #fff;
